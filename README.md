@@ -3,7 +3,7 @@ JavaScript variables, funtions, and calculations
 
 Name: _______________________________________
 
-## DUE: 17 Sep 2017 @ 11:59 pm
+## DUE: 01 Oct 2017 @ 11:59 pm
 
 ## Instructions:
 Compute the conversion of the American dollar to the British Pound, Estonian Kroon, Canadian Dollar, and Chinese Yuan.
